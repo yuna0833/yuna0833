@@ -130,11 +130,11 @@
 
 <tr>
 
-<td width="14%" align="center" valign="middle">
+<td width="14%" align="center" valign="top">
 
 <sub>PROJECT</sub>
 
-<br><br>
+<br>
 
 <h2>01</h2>
 
@@ -181,11 +181,11 @@
 
 <tr>
 
-<td width="14%" align="center" valign="middle">
+<td width="14%" align="center" valign="top">
 
 <sub>PROJECT</sub>
 
-<br><br>
+<br>
 
 <h2>02</h2>
 
