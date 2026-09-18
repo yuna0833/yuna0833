@@ -145,28 +145,14 @@ Computer Science
 
 <br>
 
-## GitHub
+## Focus
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yuna0833&show_icons=true&hide_border=true&bg_color=00000000&title_color=777777&text_color=777777&icon_color=999999"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuna0833&layout=compact&hide_border=true&bg_color=00000000&title_color=777777&text_color=777777"
-    height="160"
-  />
-</p>
+`User Experience` · `Fintech` · `Fullstack Development`
 
-<br><br>
+I care about building services that are useful, intuitive, and meaningful to users.
 
-<p align="center">
-  <i>Build for value. Design for experience.</i>
-</p>
+<br>
 
-<br>  <img src="https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
 
 ### Experienced With
 
